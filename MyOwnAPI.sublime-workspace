@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ima",
+				"ImagesManager〔namespace〕"
+			],
+			[
+				"photos",
+				"photos?id"
+			],
+			[
+				"Photo",
+				"PhotoController〔class〕"
+			],
+			[
+				"Con",
+				"Controllers"
+			],
+			[
+				"ImagesManager",
+				"ImagesManager\\Photo〔class〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"Cre",
+				"CreateAlbumRequest"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"profile",
+				"profile"
+			],
+			[
+				"ImagesM",
+				"ImagesManager\\User"
+			],
+			[
+				"publi",
+				"public〔keyword〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 196.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/MyOwnAPI"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ImagesManager/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/EditProfileRequest.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/MyOwnAPI/public/index.html",
+		"/C/xampp/php/PEAR/Auth.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/InstallCommand.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Controllers/AlbumController.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/EditAlbumRequest.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/home.blade.php",
+		"/C/xampp/htdocs/ImagesManager/composer.json",
+		"/C/xampp/htdocs/ImagesManager/bootstrap/autoload.php",
+		"/C/xampp/htdocs/ImagesManager/bootstrap/cache/.gitignore",
+		"/C/xampp/htdocs/ImagesManager/resources/views/albums/show.blade.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/albums/edit-album.blade.php",
+		"/C/xampp/htdocs/ImagesManager/ImagesManager.sublime-project",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/E/ImagesManager-master/ImagesManager-master/app/Http/Controllers/AlbumController.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/ShowPhotosRequest.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Controllers/PhotoController.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/DeletePhotoRequest.php",
+		"/E/ImagesManager-master/ImagesManager-master/app/Http/Requests/DeletePhotoRequest.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/DeleteAlbumRequest.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/photos/show.blade.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/photos/edit-photo.blade.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/EditPhotoRequest.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/photos/create-photo.blade.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/Request.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/CreatePhotoRequest.php",
+		"/C/xampp/htdocs/ImagesManager/app/User.php",
+		"/C/xampp/htdocs/ImagesManager/app/Photo.php",
+		"/E/ImagesManager-master/ImagesManager-master/app/Http/Controllers/PhotoController.php",
+		"/E/ImagesManager-master/ImagesManager-master/app/Http/Requests/CreateAlbumRequest.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/symfony/debug/Symfony/Component/Debug/Exception/FatalErrorException.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/composer/ClassLoader.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/kjyvytb.DELETE",
+		"/C/xampp/htdocs/ImagesManager/app/Http/routes.php",
+		"/C/Users/Juan Pablo/Downloads/miguel-accesos-autobytel (4).txt",
+		"/C/Users/Juan Pablo/Downloads/TextShield - STG Deployment Thu Nov 12 17_24_16 EST 2015.dat",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/CreateAlbumRequest.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/albums/create-album.blade.php",
+		"/C/Users/Juan Pablo/Downloads/11857 (2).sql",
+		"/C/xampp/htdocs/ImagesManager/app/Album.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/E/ImagesManager-master/ImagesManager-master/resources/views/albums/show.blade.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/app.blade.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/user/edit-profile.blade.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/User",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Requests/PasswordRecoveryRequest.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTest/Exception/InvalidArgumentExceptionTest.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Registrar.php",
+		"/C/xampp/htdocs/ImagesManager/app/Services/Registrar.php",
+		"/C/xampp/htdocs/ImagesManager/.env",
+		"/C/xampp/htdocs/ImagesManager/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/ImagesManager/app/Exceptions/Handler.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/HttpException.php",
+		"/C/xampp/htdocs/ImagesManager/database/migrations/2015_11_06_173138_create_photos_table.php",
+		"/C/xampp/htdocs/ImagesManager/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/ImagesManager/database/seeds/AlbumTableSeeder.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Kernel.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/errors/404.blade.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/errors/default.blade.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/C/xampp/htdocs/ImagesManager/database/migrations/2015_11_06_173105_create_albums_table.php",
+		"/C/xampp/htdocs/ImagesManager/database/seeds/UserTableSeeder.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/auth/recover.blade.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/ImagesManager/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/ImagesManager/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/ImagesManager/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/xampp/htdocs/ImagesManager/app/Http/Controllers/WelcomeController.php",
+		"/C/xampp/apache/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"imagesmanager.album",
+			"title",
+			"exist",
+			"old",
+			"=\"{{}}\"",
+			"title",
+			"description",
+			"title",
+			"question",
+			"password",
+			"			->",
+			"validateEx",
+			"password",
+			"email",
+			"album",
+			"Album",
+			"album",
+			"Album",
+			"album",
+			"Album",
+			"album",
+			"Album"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MyOwnAPI.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\InstallCommand.php"
+			],
+			[
+				"imagesmanager.",
+				"ImagesManager.sublime-project"
+			],
+			[
+				"albu",
+				"app\\Http\\Controllers\\AlbumController.php"
+			],
+			[
+				"validateexist",
+				"vendor\\doctrine\\instantiator\\tests\\DoctrineTest\\InstantiatorTest\\Exception\\InvalidArgumentExceptionTest.php"
+			],
+			[
+				"validat",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php"
+			],
+			[
+				"http",
+				"vendor\\symfony\\http-kernel\\Symfony\\Component\\HttpKernel\\Exception\\HttpException.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"httpex",
+				"vendor\\symfony\\http-kernel\\Symfony\\Component\\HttpKernel\\Exception\\HttpException.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
