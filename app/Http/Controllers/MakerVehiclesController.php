@@ -12,6 +12,11 @@ use App\Http\Requests\CreateVehicleRequest;
 
 class MakerVehiclesController extends Controller {
 
+
+	public function __construct()
+	{
+		$this->middleware('auth.basic.once', ['except' => ['index','show']]);
+	}
 	/**
 	 * Display a listing of the resource.
 	 *
@@ -121,7 +126,13 @@ class MakerVehiclesController extends Controller {
 	 */
 	public function destroy($id)
 	{
-		//
+		$maker = Maker::find($makerId);
+
+		if (!$maker)
+		{	
+		return response()->json(['message' => 'This maker does not exist', 'code' => 404], 404);
+		}
+
 	}
 
 }
