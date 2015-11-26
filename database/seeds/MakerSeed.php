@@ -1,5 +1,4 @@
 <?php
-define('STDIN',fopen("php://stdin","r"));
 
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;
