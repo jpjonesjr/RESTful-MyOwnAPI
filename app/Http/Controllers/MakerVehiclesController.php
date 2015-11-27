@@ -46,14 +46,14 @@ class MakerVehiclesController extends Controller {
 
 		if(!$maker)
 			{
-				return response()->json(['message' => 'This maker does not exist']);
+				return response()->json(['message' => 'This maker does not exist', 'code' => 404], 404);
 			}
 
 		$values = $request->all();
 
-		$maker ->vehicles()->create($values);
+		$vehicle = $maker->vehicles()->create($values);
 
-		return response()->json(['message' => 'The vehicle associated was created'], 201);
+		return response()->json(['message' => "The vehicle associated was created with serie: {$vehicle->serie}"], 201);
 	}
 
 	/**
