@@ -21,7 +21,7 @@ Route::controllers([
 ]);
 */
 
-Route::group(array('prefix' => 'api/v1.1'), function()
+Route::group(array('prefix' => 'api/v1.2'), function()
 {
 	Route::resource('makers','MakerController', ['except' => ['create', 'edit']]);
 
